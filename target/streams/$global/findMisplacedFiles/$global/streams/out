@@ -1,0 +1,4 @@
+[0m[[33mwarn[0m] [0mThe following Scala files are going to be ignored:[0m
+[0m[[33mwarn[0m] [0m  - submission/src/main/scala/TicTacToeMain.scala[0m
+[0m[[33mwarn[0m] [0m  - submission/src/test/scala/TicTacToeTest.scala[0m
+[0m[[33mwarn[0m] [0mAll code must be in src/main/scala and all tests must be in src/test/scala.[0m
